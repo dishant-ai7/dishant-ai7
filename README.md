@@ -15,7 +15,7 @@
 - **Containerization:** Docker
 - **Orchestration:** Kubernetes
 
-💡 I'm always eager to explore new technologies and best practices in the data engineering landscape. My goal is to leverage data engineering to drive innovation and create solutions that provide valuable insights from complex data sources.
+💡 I'm always eager to explore new technologies and best practices in the data engineering landscape. My goal is to leverage data to drive innovation and create solutions that provide valuable insights from complex data sources.
 
 📚 When I'm not crunching data, you'll discover me flexing at the gym, savoring moments at cozy cafes, hitting boundaries on the cricket pitch, or harmonizing with the piano's keys. I firmly believe in the power of work-life harmony and how diverse interests can add spice to our journey. 💪☕🏏🎹
 
