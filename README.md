@@ -1,6 +1,6 @@
 ## About Me
 
-👋 Hello! I'm Dishant, a passionate Data Engineer with one year of experience in the world of data and technology. I'm dedicated to designing and building data pipelines that empower organizations to make data-driven decisions.
+👋 Hello! I'm Dishant, Data Engineer with expertise in the world of data and technology. I'm dedicated to designing and building data pipelines that empower organizations to make data-driven decisions.
 
 🚀 Throughout my journey in the data engineering field, I've had the privilege to work on a diverse range of projects, from data ingestion and transformation to designing robust ETL processes. I'm committed to ensuring data quality, availability, and scalability while maintaining a strong focus on efficiency and performance.
 
